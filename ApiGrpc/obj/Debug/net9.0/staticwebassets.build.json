@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "f40S/1bXrqLktAsxQoSZf5kV69AZpuP71ydDLcoSbzs=",
+  "Source": "ApiGrpc",
+  "BasePath": "_content/ApiGrpc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

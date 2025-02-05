@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "+gv6XXhmkxMAQZOORct54lXqzO6aTsvrfG9lk52othE=",
+  "Source": "ApiRestful",
+  "BasePath": "_content/ApiRestful",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
