@@ -24,3 +24,9 @@ Ideal para comunicação entre microserviços.
 Requer mais configuração.
 Menos compatível com clientes que não suportam HTTP/2.
 
+## Explicação dos projetos (solução)
+- Dois projetos APIs, RESTFul e gRPC e um projeto Console para consumir as APIs.
+- Console executa as requisições RESTful e gRPC simultaneamente.
+- Faz 1000 requisições para cada API.
+- Mede o tempo total gasto e cálculo da média por requisição.
+- Exibe a API mais rápida com base na média de tempo.
